@@ -11,7 +11,7 @@ This is a 322 final project, which will design an new end-user interface includi
 
 # Installation
 
-Download this folder to your desktop, and make sure you have MS Word, Adobe PDF Reader, Eclipse Java, and more TBA. 
+Download this folder to your desktop, and make sure you have MS Word, Adobe PDF Reader, Eclipse Java, Android Studio, Xcode and more TBA. 
 
 # Usage
 
